@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class CoinChangeProblem {
 
     public static void main(String args[]){
-        int amount = 5;
+        int amount = 27;
         int[] coins = {1,2,5};
 
         int minimumCoins[] = new int[amount+1];
@@ -20,15 +20,6 @@ public class CoinChangeProblem {
                 + " is: "
                 + minimumCoins(coins, amount, minimumCoins));
     }
-
-
-    /**
-     * This method finds the minimum number of coins required for a given amount.
-     *
-     * @param coins
-     * @param amount
-     * @pa
-     */
 
     /**
      *
