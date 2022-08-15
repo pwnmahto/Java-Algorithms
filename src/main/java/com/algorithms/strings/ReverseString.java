@@ -1,5 +1,8 @@
 package com.algorithms.strings;
 
+/**
+ * @author Pawan Kumar (https://github.com/pwnmahto)
+ */
 public class ReverseString {
 
     public static void main(String[] args) {

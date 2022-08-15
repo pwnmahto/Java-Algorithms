@@ -9,6 +9,7 @@ import java.util.HashMap;
  * For example, the word anagram itself can be rearranged into nag a ram,
  * also the word binary into brainy and the word adobe into abode.
  * Reference from https://en.wikipedia.org/wiki/Anagram
+ * @author Pawan Kumar (https://github.com/pwnmahto)
  */
 public class Anagrams {
     public static void main(String[] args) {
