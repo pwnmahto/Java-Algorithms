@@ -1,5 +1,9 @@
 package com.algorithms.trees;
 
+/**
+ * Largest node(key) in a Tree is the maximum of the Tree.
+ * @author Pawan Kumar (https://github.com/pwnmahto)
+ */
 public class MaximumValueInBinaryTree {
 
     public static void main(String[] args) {
