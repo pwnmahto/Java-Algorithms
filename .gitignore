@@ -24,3 +24,6 @@ hs_err_pid*
 
 # IntelliJ Idea Files
 .idea
+
+# Complied Files
+target
