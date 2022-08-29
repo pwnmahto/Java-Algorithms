@@ -16,7 +16,8 @@
 |  SNo. | Problem Statement | GitHub | GitHub1s |
 | ----- | ----------------- | ------ | -------- |
 | 1| Largest Element In Array |[LargestElementInArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LargestElementInArray.java)|[LargestElementInArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LargestElementInArray.java)|
-| 2| Second Largest Element In Array |[SecondLargestElementInArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/SecondLargestElementInArray.java)|[SecondLargestElementInArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/SecondLargestElementInArray.java)|
+| 2| Reverse An Array |[ReverseAnArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/ReverseAnArray.java)|[ReverseAnArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/ReverseAnArray.java)|
+| 3| Second Largest Element In Array |[SecondLargestElementInArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/SecondLargestElementInArray.java)|[SecondLargestElementInArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/SecondLargestElementInArray.java)|
 
 ## Recursion ##
 
@@ -27,10 +28,10 @@
 | 3| Lucky Numbers |[LuckyNumbers.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/LuckyNumbers.java)|[LuckyNumbers.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/LuckyNumbers.java)|
 | 4| Natural Number Sum |[NaturalNumberSum.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NaturalNumberSum.java)|[NaturalNumberSum.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NaturalNumberSum.java)|
 | 5| Nth Fibonacci Number |[NthFibonacciNumber.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NthFibonacciNumber.java)|[NthFibonacciNumber.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NthFibonacciNumber.java)|
-| 6| Palindrome Check Using Recursion |[PalindromeCheckUsingRecursion.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PalindromeCheckUsingRecursion.java)|[PalindromeCheckUsingRecursion.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PalindromeCheckUsingRecursion.java)|
+| 6| Palindrome Check |[PalindromeCheck.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PalindromeCheck.java)|[PalindromeCheck.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PalindromeCheck.java)|
 | 7| Power Using Recursion |[PowerUsingRecursion.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PowerUsingRecursion.java)|[PowerUsingRecursion.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PowerUsingRecursion.java)|
 | 8| Print 1 To N |[Print1ToN.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/Print1ToN.java)|[Print1ToN.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/Print1ToN.java)|
-| 9| Sum Of Digits Using Recursion |[SumOfDigitsUsingRecursion.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/SumOfDigitsUsingRecursion.java)|[SumOfDigitsUsingRecursion.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/SumOfDigitsUsingRecursion.java)|
+| 9| Sum Of Digits |[SumOfDigits.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/SumOfDigits.java)|[SumOfDigits.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/SumOfDigits.java)|
 | 10| Tower Of Hanoi |[TowerOfHanoi.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/TowerOfHanoi.java)|[TowerOfHanoi.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/TowerOfHanoi.java)|
 
 ## Dynamic Programming ##
@@ -39,3 +40,4 @@
 | ----- | ----------------- | ------ | -------- |
 | 1| Coin Change Problem |[CoinChangeProblem.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/CoinChangeProblem.java)|[CoinChangeProblem.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/CoinChangeProblem.java)|
 | 2| Longest Common Sub Sequence |[LongestCommonSubSequence.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/LongestCommonSubSequence.java)|[LongestCommonSubSequence.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/LongestCommonSubSequence.java)|
+
