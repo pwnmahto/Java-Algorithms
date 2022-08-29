@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Sum of Digits of a Number
  * @author Pawan Kumar (https://github.com/pwnmahto)
  */
-public class SumOfDigits {
+public class SumOfDigitsUsingRecursion {
 
     public static void main(String[] args) {
 
