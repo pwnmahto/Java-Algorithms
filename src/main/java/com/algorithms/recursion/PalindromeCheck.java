@@ -6,7 +6,7 @@ package com.algorithms.recursion;
  * Reference from https://en.wikipedia.org/wiki/Palindrome
  * @author Pawan Kumar (https://github.com/pwnmahto)
  */
-public class PalindromeCheckUsingRecursion {
+public class PalindromeCheck {
 
     public static void main(String[] args) {
 
