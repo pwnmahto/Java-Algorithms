@@ -1,13 +1,17 @@
 package com.algorithms.recursion;
 
+import java.util.Scanner;
+
 /**
+ * Sum of Digits of a Number
  * @author Pawan Kumar (https://github.com/pwnmahto)
  */
 public class SumOfDigitsUsingRecursion {
 
     public static void main(String[] args) {
 
-        int number = 123456;
+        Scanner scanner = new Scanner(System.in);
+        int number = scanner.nextInt();
 
         System.out.println(sumOfDigits(number));
 
