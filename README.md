@@ -6,9 +6,17 @@
 <h3 align="center">All algorithms are implemented in Java (Happy Learning 😇)</h3>
 
 ## Table of Contents ##
-1. [Recursion](#Recursion)
-1. [Dynamic Programming](#Dynamic-Programming)
+1. [Arrays](#Arrays)
+2. [Recursion](#Recursion)
+3. [Dynamic Programming](#Dynamic-Programming)
 
+
+## Arrays ##
+
+|  SNo. | Problem Statement | GitHub | GitHub1s |
+| ----- | ----------------- | ------ | -------- |
+| 1| Largest Element In Array |[LargestElementInArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LargestElementInArray.java)|[LargestElementInArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LargestElementInArray.java)|
+| 2| Second Largest Element In Array |[SecondLargestElementInArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/SecondLargestElementInArray.java)|[SecondLargestElementInArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/SecondLargestElementInArray.java)|
 
 ## Recursion ##
 
@@ -31,4 +39,3 @@
 | ----- | ----------------- | ------ | -------- |
 | 1| Coin Change Problem |[CoinChangeProblem.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/CoinChangeProblem.java)|[CoinChangeProblem.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/CoinChangeProblem.java)|
 | 2| Longest Common Sub Sequence |[LongestCommonSubSequence.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/LongestCommonSubSequence.java)|[LongestCommonSubSequence.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/LongestCommonSubSequence.java)|
-
