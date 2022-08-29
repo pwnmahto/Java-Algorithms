@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h3 align="center">All algorithms are implemented in Java (for educational purposes).</h3>
+<h3 align="center">All algorithms are implemented in Java (Happy Learning 😇)</h3>
 
 ## Table of Contents ##
 1. [Recursion](#Recursion)
