@@ -1,6 +1,6 @@
 package com.algorithms.arrays;
 
-/** Trapping Rain Water Problem Statement
+/** Trapping Rain Water Problem Statement Using Brute Approach
  * @author Pawan Kumar (https://github.com/pwnmahto)
  */
 public class TrappingRainWaterBruteApproach {
