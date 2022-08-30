@@ -3,7 +3,7 @@ package com.algorithms.arrays;
 /** Trapping Rain Water Problem Statement
  * @author Pawan Kumar (https://github.com/pwnmahto)
  */
-public class TrappingRainWater {
+public class TrappingRainWaterBruteApproach {
 
     public static void main(String[] args) {
 
