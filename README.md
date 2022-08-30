@@ -16,9 +16,13 @@
 
 |  SNo. | Problem Statement | GitHub | GitHub1s |
 | ----- | ----------------- | ------ | -------- |
-| 1| Largest Element In Array |[LargestElementInArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LargestElementInArray.java)|[LargestElementInArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LargestElementInArray.java)|
-| 2| Reverse An Array |[ReverseAnArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/ReverseAnArray.java)|[ReverseAnArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/ReverseAnArray.java)|
-| 3| Second Largest Element In Array |[SecondLargestElementInArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/SecondLargestElementInArray.java)|[SecondLargestElementInArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/SecondLargestElementInArray.java)|
+| 1| Frequencies In A Sorted Array |[FrequenciesInASortedArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/FrequenciesInASortedArray.java)|[FrequenciesInASortedArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/FrequenciesInASortedArray.java)|
+| 2| Largest Element In Array |[LargestElementInArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LargestElementInArray.java)|[LargestElementInArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LargestElementInArray.java)|
+| 3| Leaders In An Array |[LeadersInAnArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LeadersInAnArray.java)|[LeadersInAnArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LeadersInAnArray.java)|
+| 4| Maximum Difference With Order |[MaximumDifferenceWithOrder.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/MaximumDifferenceWithOrder.java)|[MaximumDifferenceWithOrder.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/MaximumDifferenceWithOrder.java)|
+| 5| Reverse An Array |[ReverseAnArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/ReverseAnArray.java)|[ReverseAnArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/ReverseAnArray.java)|
+| 6| Second Largest Element In Array |[SecondLargestElementInArray.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/SecondLargestElementInArray.java)|[SecondLargestElementInArray.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/SecondLargestElementInArray.java)|
+| 7| Trapping Rain Water |[TrappingRainWater.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/TrappingRainWater.java)|[TrappingRainWater.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/TrappingRainWater.java)|
 
 ## Recursion ##
 
@@ -59,4 +63,3 @@
 | ----- | ----------------- | ------ | -------- |
 | 1| Coin Change Problem |[CoinChangeProblem.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/CoinChangeProblem.java)|[CoinChangeProblem.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/CoinChangeProblem.java)|
 | 2| Longest Common Sub Sequence |[LongestCommonSubSequence.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/LongestCommonSubSequence.java)|[LongestCommonSubSequence.java](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/LongestCommonSubSequence.java)|
-
