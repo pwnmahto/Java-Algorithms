@@ -49,6 +49,8 @@ To read the source code in Visual Studio Code (GitHub1s), click [here](https://g
 |  | -------------------Problem Statement------------------- | -------------------Source Code------------------- |
 | ----- | ----------------- | ------ |
 |1|Bubble Sort|[BubbleSort.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/sorting/BubbleSort.java)|
+|2|Insertion Sort|[InsertionSort.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/sorting/InsertionSort.java)|
+|3|Selection Sort|[SelectionSort.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/sorting/SelectionSort.java)|
 
 ## Trees ##
 
