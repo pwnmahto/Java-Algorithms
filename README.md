@@ -6,11 +6,26 @@
 <h3 align="center">All algorithms are implemented in Java (Happy Learning 😇)</h3>
 
 ## Table of Contents ##
-1. [Arrays](#Arrays)
-2. [Recursion](#Recursion)
-3. [Trees](#Trees)
+1. [Recursion](#Recursion)
+2. [Arrays](#Arrays)
+3. [Sorting](#Sorting)
+4. [Trees](#Trees)
 4. [Dynamic Programming](#Dynamic-Programming)
 
+
+## Recursion ##
+
+To read the source code in Visual Studio Code (GitHub1s), click [here](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/CountTotalDigits.java).
+|  | -------------------Problem Statement------------------- | -------------------Source Code------------------- |
+| ----- | ----------------- | ------ |
+|1|Count Total Digits|[CountTotalDigits.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/CountTotalDigits.java)|
+|2|Find Digital Root|[FindDigitalRoot.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/FindDigitalRoot.java)|
+|3|Natural Number Sum|[NaturalNumberSum.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NaturalNumberSum.java)|
+|4|Nth Fibonacci Number|[NthFibonacciNumber.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NthFibonacciNumber.java)|
+|5|Palindrome Check Using Recursion|[PalindromeCheckUsingRecursion.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PalindromeCheckUsingRecursion.java)|
+|6|Power Using Recursion|[PowerUsingRecursion.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PowerUsingRecursion.java)|
+|7|Print 1 To N|[Print1ToN.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/Print1ToN.java)|
+|8|Sum Of Digits Using Recursion|[SumOfDigitsUsingRecursion.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/SumOfDigitsUsingRecursion.java)|
 
 ## Arrays ##
 
@@ -28,19 +43,12 @@ To read the source code in Visual Studio Code (GitHub1s), click [here](https://g
 |9|Sub Array With Given Sum Using Sliding Window|[SubArrayWithGivenSumUsingSlidingWindow.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/SubArrayWithGivenSumUsingSlidingWindow.java)|
 |10|Trapping Rain Water Brute Approach|[TrappingRainWaterBruteApproach.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/TrappingRainWaterBruteApproach.java)|
 
-## Recursion ##
+## Sorting ##
 
-To read the source code in Visual Studio Code (GitHub1s), click [here](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/CountTotalDigits.java).
+To read the source code in Visual Studio Code (GitHub1s), click [here](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/sorting/BubbleSort.java).
 |  | -------------------Problem Statement------------------- | -------------------Source Code------------------- |
 | ----- | ----------------- | ------ |
-|1|Count Total Digits|[CountTotalDigits.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/CountTotalDigits.java)|
-|2|Find Digital Root|[FindDigitalRoot.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/FindDigitalRoot.java)|
-|3|Natural Number Sum|[NaturalNumberSum.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NaturalNumberSum.java)|
-|4|Nth Fibonacci Number|[NthFibonacciNumber.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NthFibonacciNumber.java)|
-|5|Palindrome Check Using Recursion|[PalindromeCheckUsingRecursion.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PalindromeCheckUsingRecursion.java)|
-|6|Power Using Recursion|[PowerUsingRecursion.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PowerUsingRecursion.java)|
-|7|Print 1 To N|[Print1ToN.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/Print1ToN.java)|
-|8|Sum Of Digits Using Recursion|[SumOfDigitsUsingRecursion.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/SumOfDigitsUsingRecursion.java)|
+|1|Bubble Sort|[BubbleSort.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/sorting/BubbleSort.java)|
 
 ## Trees ##
 
@@ -68,3 +76,4 @@ To read the source code in Visual Studio Code (GitHub1s), click [here](https://g
 | ----- | ----------------- | ------ |
 |1|Coin Change Problem|[CoinChangeProblem.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/CoinChangeProblem.java)|
 |2|Longest Common Sub Sequence|[LongestCommonSubSequence.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/LongestCommonSubSequence.java)|
+
