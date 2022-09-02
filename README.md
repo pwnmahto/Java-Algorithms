@@ -10,7 +10,8 @@
 2. [Arrays](#Arrays)
 3. [Sorting](#Sorting)
 4. [Trees](#Trees)
-5. [Dynamic Programming](#Dynamic-Programming)
+5. [Binary Search Tree](#Binary-Search-Tree)
+6. [Dynamic Programming](#Dynamic-Programming)
 
 
 ## Recursion ##
@@ -70,6 +71,14 @@ To read the source code in Visual Studio Code (GitHub1s), click [here](https://g
 |11.|Preorder Traversal|[PreorderTraversal.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/trees/PreorderTraversal.java)|
 |12.|Print Left View Of Binary Tree|[PrintLeftViewOfBinaryTree.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/trees/PrintLeftViewOfBinaryTree.java)|
 |13.|Size Of Binary Tree|[SizeOfBinaryTree.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/trees/SizeOfBinaryTree.java)|
+
+## Binary Search Tree ##
+
+To read the source code in Visual Studio Code (GitHub1s), click [here](https://github1s.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/binarysearchtree/SearchInBinarySearchTreeIterativeApproach.java).
+|  | -------------------Problem Statement------------------- | -------------------Source Code------------------- |
+| ----- | ----------------- | ------ |
+|1.|Search In Binary Search Tree Iterative Approach|[SearchInBinarySearchTreeIterativeApproach.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/binarysearchtree/SearchInBinarySearchTreeIterativeApproach.java)|
+|2.|Search In Binary Search Tree Recursive Approach|[SearchInBinarySearchTreeRecursiveApproach.java](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/binarysearchtree/SearchInBinarySearchTreeRecursiveApproach.java)|
 
 ## Dynamic Programming ##
 
