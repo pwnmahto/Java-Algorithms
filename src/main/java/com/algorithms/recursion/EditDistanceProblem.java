@@ -8,7 +8,7 @@ package com.algorithms.recursion;
  *  3.  Replace a character
  * @author Pawan Kumar (https://github.com/pwnmahto)
  */
-public class EditDistanceProblemUsingRecursion {
+public class EditDistanceProblem {
 
     public static void main(String[] args) {
 
