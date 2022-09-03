@@ -63,4 +63,6 @@
 ## Dynamic Programming ##
 1. [Coin Change Problem](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/CoinChangeProblem.java)
 1. [Longest Common Sub Sequence](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/LongestCommonSubSequence.java)
+1. [Nth Fibonacci Number Using Memoization](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/NthFibonacciNumberUsingMemoization.java)
+1. [Nth Fibonacci Number Using Tabulation](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/NthFibonacciNumberUsingTabulation.java)
 
