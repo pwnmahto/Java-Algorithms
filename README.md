@@ -9,6 +9,7 @@
 1. [Recursion](#Recursion)
 2. [Arrays](#Arrays)
 3. [Sorting](#Sorting)
+3. [Linked List](#Linked-List)
 4. [Trees](#Trees)
 5. [Binary Search Tree](#Binary-Search-Tree)
 6. [Dynamic Programming](#Dynamic-Programming)
@@ -41,6 +42,9 @@
 1. [Bubble Sort](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/sorting/BubbleSort.java)
 1. [Insertion Sort](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/sorting/InsertionSort.java)
 1. [Selection Sort](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/sorting/SelectionSort.java)
+
+## Linked List ##
+1. [Linked List Traversal](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/linkedlist/LinkedListTraversal.java)
 
 ## Trees ##
 1. [Binary Tree Example](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/trees/BinaryTreeExample.java)
