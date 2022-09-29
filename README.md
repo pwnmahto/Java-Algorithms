@@ -23,6 +23,7 @@
 
 ## Arrays ##
 1. [Count Total Digits](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/CountTotalDigits.java)
+1. [Largest Sum Contiguous Sub Array](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LargestSumContiguousSubArray.java)
 
 ## Sorting ##
 1. [Bubble Sort](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/sorting/BubbleSort.java)
