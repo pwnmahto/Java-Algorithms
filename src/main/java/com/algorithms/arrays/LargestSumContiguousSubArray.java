@@ -23,7 +23,7 @@ public class LargestSumContiguousSubArray {
 
         int leftIndex = -1;
         int rightIndex = -1;
-        int maxSum = numbers[0];
+        int maxSum = Integer.MIN_VALUE;
 
         if(length == 0){
             System.out.println("This is an empty array.");
@@ -31,11 +31,11 @@ public class LargestSumContiguousSubArray {
         }
 
         if(length == 1){
-            System.out.println("This maximum sum of the array is " + maxSum + " is present at index 0.");
+            System.out.println("This maximum sum of the array is " + numbers[0] + " is present at index 0.");
             return;
         }
 
-        for(int i = 1; i < length; i++){
+        for(int i = 0; i < length; i++){
 
             int sum = 0;
 
