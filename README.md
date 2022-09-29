@@ -5,16 +5,6 @@
 
 <h3 align="center">All algorithms are implemented in Java (Happy Learning 😇)</h3>
 
-## Table of Contents ##
-1. [Recursion](#Recursion)
-2. [Arrays](#Arrays)
-3. [Sorting](#Sorting)
-4. [Linked List](#Linked-List)
-5. [Trees](#Trees)
-6. [Binary Search Tree](#Binary-Search-Tree)
-7. [Dynamic Programming](#Dynamic-Programming)
-
-
 ## Recursion ##
 1. [Print 1 To N](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/Print1ToN.java)
 1. [Natural Number Sum](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NaturalNumberSum.java)
@@ -50,4 +40,5 @@
 1. [Edit Distance Problem](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/EditDistanceProblem.java)
 1. [Nth Fibonacci Number Using Tabulation](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/NthFibonacciNumberUsingTabulation.java)
 1. [Nth Fibonacci Number Using Memoization](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/NthFibonacciNumberUsingMemoization.java)
+1. [Maximum Sum Contiguous Sub Array Using Kadane Algorithm](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/dynamicprogramming/MaximumSumContiguousSubArrayUsingKadaneAlgorithm.java)
 
