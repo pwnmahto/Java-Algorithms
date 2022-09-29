@@ -31,6 +31,8 @@
 
 ## Linked List ##
 1. [Linked List Traversal](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/linkedlist/LinkedListTraversal.java)
+1. [Insert At Beginning Of Singly Linked List](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/linkedlist/InsertAtBeginningOfSinglyLinkedList.java)
+1. [Intersection Point Of Two Linked Lists](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/linkedlist/IntersectionPointOfTwoLinkedLists.java)
 
 ## Trees ##
 1. [Binary Tree Example](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/trees/BinaryTreeExample.java)

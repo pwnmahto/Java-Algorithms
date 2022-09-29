@@ -22,7 +22,7 @@ public class IntersectionPointOfTwoLinkedLists {
         head2 .next.next.next = new Node(14);
 
         Node newNode = new Node(8);
-        head1.next.next.next.next.next.next.next =  newNode;
+        head1.next.next.next.next.next.next.next = newNode;
         head2 .next.next.next.next = newNode;
 
         Node intersectionNode = getIntersectionNode(head1, head2);
