@@ -5,6 +5,23 @@
 
 <h3 align="center">All algorithms are implemented in Java (Happy Learning 😇)</h3>
 
+## Table of Contents ##
+1. [String](#String)
+2. [Recursion](#Recursion)
+3. [Arrays](#Arrays)
+4. [Sorting](#Sorting)
+5. [Linked List](#Linked-List)
+6. [Trees](#Trees)
+7. [Binary Search Tree](#Binary-Search-Tree)
+8. [Dynamic Programming](#Dynamic-Programming)
+
+
+## String ##
+1. [Anagrams](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/string/Anagrams.java)
+1. [Palindrome](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/string/Palindrome.java)
+1. [Reverse String](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/string/ReverseString.java)
+1. [Minimum Indexed Character Brute Approach](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/string/MinimumIndexedCharacterBruteApproach.java)
+
 ## Recursion ##
 1. [Print 1 To N](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/Print1ToN.java)
 1. [Natural Number Sum](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NaturalNumberSum.java)
