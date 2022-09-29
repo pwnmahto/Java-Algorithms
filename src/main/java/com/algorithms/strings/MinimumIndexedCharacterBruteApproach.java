@@ -11,7 +11,7 @@ public class MinimumIndexedCharacterBruteApproach {
         String string = "Algorithms";
         String pattern = "ogsm";
 
-        int minimumIndex = printMinimumIndexedCharacter(string, pattern);
+        int minimumIndex = getMinimumIndexedCharacter(string, pattern);
         if(minimumIndex == -1)
             System.out.println("No Character is found.");
         else
@@ -24,7 +24,7 @@ public class MinimumIndexedCharacterBruteApproach {
      * @param pattern
      * @return
      */
-    private static int printMinimumIndexedCharacter(String string, String pattern) {
+    private static int getMinimumIndexedCharacter(String string, String pattern) {
 
         int m = string.length();
         int n = pattern.length();
