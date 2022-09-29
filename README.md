@@ -21,6 +21,7 @@
 1. [Palindrome](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/strings/Palindrome.java)
 1. [Reverse String](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/strings/ReverseString.java)
 1. [Minimum Indexed Character Brute Approach](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/strings/MinimumIndexedCharacterBruteApproach.java)
+1. [Minimum Indexed Character Using Hash Map](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/strings/MinimumIndexedCharacterUsingHashMap.java)
 
 ## Recursion ##
 1. [Print 1 To N](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/Print1ToN.java)
