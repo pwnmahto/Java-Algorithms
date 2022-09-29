@@ -2,6 +2,11 @@ package com.algorithms.arrays;
 
 /**
  * To find the sum of the contiguous sub array within an arr[] with the largest sum.
+ * Some properties of this problem are:
+ * 1. If the array contains all non-negative numbers, then the problem is trivial; a maximum sub-array is the entire array.
+ * 2. If the array contains all non-positive numbers, then a solution is any sub-array of size 1 containing the maximal value of the array (or the empty subarray, if it is permitted).
+ * 3. Several sub-arrays may have the same maximum sum.
+ * Reference from https://en.wikipedia.org/wiki/Maximum_subarray_problem
  * @author Pawan Kumar (https://github.com/pwnmahto)
  */
 public class LargestSumContiguousSubArray {
