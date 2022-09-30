@@ -45,6 +45,7 @@
 
 ## Linked List ##
 1. [Linked List Traversal](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/linkedlist/LinkedListTraversal.java)
+1. [Recursive Traversal Of Singly Linked List](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/linkedlist/RecursiveTraversalOfSinglyLinkedList.java)
 1. [Insert At Beginning Of Singly Linked List](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/linkedlist/InsertAtBeginningOfSinglyLinkedList.java)
 1. [Intersection Point Of Two Linked Lists](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/linkedlist/IntersectionPointOfTwoLinkedLists.java)
 1. [Intersection Point Of Two Linked Lists Using Diff In Node Count](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/linkedlist/IntersectionPointOfTwoLinkedListsUsingDiffInNodeCount.java)
