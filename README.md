@@ -26,8 +26,13 @@
 ## Recursion ##
 1. [Print 1 To N](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/Print1ToN.java)
 1. [Natural Number Sum](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NaturalNumberSum.java)
+1. [Count Total Digits](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/CountTotalDigits.java)
 1. [Palindrome Check Using Recursion](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PalindromeCheckUsingRecursion.java)
 1. [Sum Of Digits Using Recursion](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/SumOfDigitsUsingRecursion.java)
+1. [Find Digital Root](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/FindDigitalRoot.java)
+1. [Nth Fibonacci Number](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/NthFibonacciNumber.java)
+1. [Power Using Recursion](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/PowerUsingRecursion.java)
+1. [Edit Distance Problem](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/recursion/EditDistanceProblem.java)
 
 ## Arrays ##
 1. [Count Total Digits](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/CountTotalDigits.java)
