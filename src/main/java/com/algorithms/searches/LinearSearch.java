@@ -18,7 +18,7 @@ public class LinearSearch {
             System.out.println("\nElement " + element + " is not present in the array.");
         }else
             System.out.println("\nElement " + element + " is present in the array at " + result);
-        
+
 
     }
 
