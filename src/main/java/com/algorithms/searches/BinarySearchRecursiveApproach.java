@@ -1,6 +1,6 @@
 package com.algorithms.searches;
 
-public class BinarySearch {
+public class BinarySearchRecursiveApproach {
 
     public static void main(String[] args) {
 
@@ -23,6 +23,7 @@ public class BinarySearch {
     private static int binarySearch(int[] arr, int low, int high, int element) {
 
         System.out.println();
+
         for(int i = 0; i < arr.length ; i++){
             if(i >= low && i <= high)
                 System.out.print( arr[i] + " ");
