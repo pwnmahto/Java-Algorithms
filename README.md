@@ -9,11 +9,12 @@
 1. [String](#String)
 2. [Recursion](#Recursion)
 3. [Arrays](#Arrays)
-4. [Sorting](#Sorting)
-5. [Linked List](#Linked-List)
-6. [Trees](#Trees)
-7. [Binary Search Tree](#Binary-Search-Tree)
-8. [Dynamic Programming](#Dynamic-Programming)
+4. [Searches](#Searches)
+5. [Sorting](#Sorting)
+6. [Linked List](#Linked-List)
+7. [Trees](#Trees)
+8. [Binary Search Tree](#Binary-Search-Tree)
+9. [Dynamic Programming](#Dynamic-Programming)
 
 
 ## String ##
@@ -37,6 +38,11 @@
 ## Arrays ##
 1. [Count Total Digits](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/CountTotalDigits.java)
 1. [Largest Sum Contiguous Sub Array](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/arrays/LargestSumContiguousSubArray.java)
+
+## Searches ##
+1. [Linear Search](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/searches/LinearSearch.java)
+1. [Binary Search Recursive Approach](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/searches/BinarySearchRecursiveApproach.java)
+1. [Rotated Sorted Array Using Binary Search](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/searches/RotatedSortedArrayUsingBinarySearch.java)
 
 ## Sorting ##
 1. [Bubble Sort](https://github.com/pwnmahto/java-algorithms/blob/main/src/main/java/com/algorithms/sorting/BubbleSort.java)
